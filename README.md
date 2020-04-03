@@ -19,7 +19,7 @@ utilities:
   ioncube:
     - ioncube
 utility-sources:
-  ioncube: https://github.com/markbain/vvv-ioncube-utility
+  ioncube: https://github.com/blackdogdevelopers/vvv-ioncube-utility
 ```
 
 The `core` utilities are there by default.

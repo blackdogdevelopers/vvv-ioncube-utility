@@ -2,7 +2,8 @@
 
 Ioncube utility for VVV
 
-This utility will set up [Ioncube](http://www.ioncube.com/) on your [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) installation. This is required by the [Memberium](https://memberium.com/) WordPress plugin.
+This utility will set up [Ioncube](http://www.ioncube.com/) on your [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) installation.
+Works with PHP v7.2 and v7.3
 
 ## Usage
 
